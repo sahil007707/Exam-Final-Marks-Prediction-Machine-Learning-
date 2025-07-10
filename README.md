@@ -37,9 +37,6 @@ Using machine learning techniques, we predict the final marks students are likel
 ---
 
 ## 📈 Visualizations
-
-- Pairplots to identify feature correlation.
-- Heatmaps to understand data dependency.
 - Line and bar plots to compare predictions.
 
 ---
